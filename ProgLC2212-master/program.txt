@@ -1,0 +1,4 @@
+Int x = 0; 
+stream.add([x]); 
+stream.delete(stream.size()-1);
+stream
